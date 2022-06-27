@@ -1,7 +1,7 @@
 # Git Test
 
 
-This shall be my first GitHub repository. Hello fellow Odin students! :wave:
+This shall be my first GitHub repository. Hello World, and good luck to fellow Odin students! 👋
 
 Since this repo was primarily created for testing purposes, allow me to divert your attention to something useful:
 
